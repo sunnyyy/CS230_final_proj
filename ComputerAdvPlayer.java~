@@ -3,7 +3,7 @@
   * Authors: Lilian Ma (L02) & Sunnia Ye (L01)
   * Creates a computer player at the advanced level. We inherit the
   * Player class and override the method 'takeCoin(int n) to make sure 
-  * that the computer tries to beat the player by playing the "smart" way:
+  * that the computer tries to beat the player by playing the ‘smart’ way:
   * the computer continually tries to make sure you get stuck with a 
   * pile of coins that is a multiple of five UNLESS you set the
   * computer up such that they are in that scenario. At this point,
